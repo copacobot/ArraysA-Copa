@@ -10,4 +10,4 @@ git clone https://github.com/copacobot/ArraysA-Copa.git
 
 Open the project in Visual Studio or VS Code.
 
-Build and run the project (press F5 or use dotnet run if you have .NET SDK installed)
+Build and run the project
