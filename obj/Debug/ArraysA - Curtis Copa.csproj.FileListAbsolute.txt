@@ -1,0 +1,10 @@
+C:\Users\lovec\source\repos\ArraysA - Curtis Copa\bin\Debug\ArraysA - Curtis Copa.exe.config
+C:\Users\lovec\source\repos\ArraysA - Curtis Copa\bin\Debug\ArraysA - Curtis Copa.exe
+C:\Users\lovec\source\repos\ArraysA - Curtis Copa\bin\Debug\ArraysA - Curtis Copa.pdb
+C:\Users\lovec\source\repos\ArraysA - Curtis Copa\obj\Debug\ArraysA - Curtis Copa.csproj.AssemblyReference.cache
+C:\Users\lovec\source\repos\ArraysA - Curtis Copa\obj\Debug\ArraysA___Curtis_Copa.Form1.resources
+C:\Users\lovec\source\repos\ArraysA - Curtis Copa\obj\Debug\ArraysA___Curtis_Copa.Properties.Resources.resources
+C:\Users\lovec\source\repos\ArraysA - Curtis Copa\obj\Debug\ArraysA - Curtis Copa.csproj.GenerateResource.cache
+C:\Users\lovec\source\repos\ArraysA - Curtis Copa\obj\Debug\ArraysA - Curtis Copa.csproj.CoreCompileInputs.cache
+C:\Users\lovec\source\repos\ArraysA - Curtis Copa\obj\Debug\ArraysA - Curtis Copa.exe
+C:\Users\lovec\source\repos\ArraysA - Curtis Copa\obj\Debug\ArraysA - Curtis Copa.pdb
