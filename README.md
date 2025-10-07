@@ -8,6 +8,6 @@ How to Run (requires .net SDK)
 Clone this repository:
 git clone https://github.com/copacobot/ArraysA-Copa.git
 
-Open the project in Visual Studio or VS Code.
+Open the project in Visual Studio or VS Code
 
 Build and run the project
